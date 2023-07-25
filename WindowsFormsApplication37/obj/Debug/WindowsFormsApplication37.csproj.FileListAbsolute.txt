@@ -1,0 +1,14 @@
+c:\users\hp\documents\visual studio 2015\Projects\WindowsFormsApplication37\WindowsFormsApplication37\bin\Debug\WindowsFormsApplication37.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\WindowsFormsApplication37\WindowsFormsApplication37\bin\Debug\WindowsFormsApplication37.exe
+c:\users\hp\documents\visual studio 2015\Projects\WindowsFormsApplication37\WindowsFormsApplication37\bin\Debug\WindowsFormsApplication37.pdb
+c:\users\hp\documents\visual studio 2015\Projects\WindowsFormsApplication37\WindowsFormsApplication37\obj\Debug\WindowsFormsApplication37.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\WindowsFormsApplication37\WindowsFormsApplication37\obj\Debug\WindowsFormsApplication37.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\WindowsFormsApplication37\WindowsFormsApplication37\obj\Debug\WindowsFormsApplication37.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\WindowsFormsApplication37\WindowsFormsApplication37\obj\Debug\WindowsFormsApplication37.exe
+c:\users\hp\documents\visual studio 2015\Projects\WindowsFormsApplication37\WindowsFormsApplication37\obj\Debug\WindowsFormsApplication37.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\WindowsFormsApplication37\WindowsFormsApplication37\obj\Debug\WindowsFormsApplication37.Form2.resources
+C:\Users\HP\documents\visual studio 2015\Projects\WindowsFormsApplication37\WindowsFormsApplication37\obj\Debug\WindowsFormsApplication37.user.resources
+C:\Users\HP\documents\visual studio 2015\Projects\WindowsFormsApplication37\WindowsFormsApplication37\obj\Debug\WindowsFormsApplication37.admin.resources
+C:\Users\HP\documents\visual studio 2015\Projects\WindowsFormsApplication37\WindowsFormsApplication37\obj\Debug\WindowsFormsApplication37.sifreunuttum.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\WindowsFormsApplication37\WindowsFormsApplication37\obj\Debug\WindowsFormsApplication37.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\WindowsFormsApplication37\WindowsFormsApplication37\obj\Debug\WindowsFormsApplication37.csproj.CoreCompileInputs.cache
